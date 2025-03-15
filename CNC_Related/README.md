@@ -75,6 +75,9 @@ https://idcwoodcraft.com/
 This one has some good v12 UI tips  https://www.youtube.com/watch?v=xQc-PDaH1Po&list=PL1FwpwIc0fypqOak4RYnhK5gCO1mJjumj&index=63
 - Tutorial for absolute beginner: 
 https://idcwoodcraft.com/pages/for-beginners-learning-center
+- How To Setup CNC Router Bits Feeds & Speeds in Vectric Tool Library Database Vcarve & Aspire.
+The "more" section has a link to a downloadable pdf chart and other info.
+https://www.youtube.com/watch?v=670Xzgf0LiA
 
 - This one has lots of resource links in the comments section
 https://www.youtube.com/watch?app=desktop&v=wJlKiLugy5s

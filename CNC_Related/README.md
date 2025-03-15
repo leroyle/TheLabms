@@ -34,9 +34,15 @@ Vectric has made available a free version of Vcarve Pro for Makerspace members t
 
 Once installed this version will show “Trial” in the upper left to the right of the product name until you load a file. *I believe this "Trial" version does not expire, though I could be wrong.*
 
+- Vcarve Pro Keyboard shortcuts:
+https://docs.vectric.com/docs/V10.0/VCarvePro/ENU/Help/page/keyboard-shortcuts
+
 ### Project Creation Steps
   - The idea is to design you project at home, save it to a file,
   - load that file on the lab machine that does have the fully capable version and generate the G-Code with that full version.
+  - Once the G-Code is created it is sent/taken to the Carbide 3D Motion software which will actually drive the machine
+  - Carbide Motion Keyboard Cheat sheet:
+https://community.carbide3d.com/t/keyboard-shortcut-cheat-sheet-for-carbide-create-and-motion/7839
 
 
 ### Makerspace Discord members suggested pinned messages documents
@@ -82,6 +88,9 @@ Kyle Ely recommended by Garrett Fromme @ IDC Woodcraft. Offers online Vectric tr
 ### Other Possibilities
 Other things on the list to look at as time permits. Most are just notes to myself of things that **Might** be interesting.
 
+- A Reddit Shapeoko Wiki
+  https://www.reddit.com/r/shapeoko/wiki/index/
+  
 - [Udemy.com](https://www.udemy.com) - pay per course, general CNC:
 
 - [Linkedin Learning](https://www.linkedin.com/learning/) -  Formerly known as Lynda.com subscription learning, general CNC: Lynda.com

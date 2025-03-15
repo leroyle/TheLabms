@@ -37,7 +37,20 @@ Once installed this version will show “Trial” in the upper left to the right
 ### Project Creation Steps
   - The idea is to design you project at home, save it to a file,
   - load that file on the lab machine that does have the fully capable version and generate the G-Code with that full version.
-	
+
+
+### Makerspace Discord members suggested pinned messages documents
+useful links provided by those who came before, I would encourage you to look these pinned messages over for some very good info, **many thanks to those members**.
+
+https://carbide3d.com/files/pdf/VFD_Spindle_Kit_v1.pdf
+
+https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z
+
+https://my.carbide3d.com/gettingstarted/shapeokopro/
+
+https://docs.carbide3d.com/assembly/shapeoko-pro/xxl/Shapeoko_Pro_assembly_guide_02-05-2021_v1_web.pdf
+
+
 ### Learning Vcarve resources
 
 These are some sites/YouTube videos I've run across when trying to learn the design phase.

@@ -24,7 +24,11 @@ The software driving the actual Shapeoko machine in the makerspace is Carbide3D'
 https://community.carbide3d.com/t/keyboard-shortcut-cheat-sheet-for-carbide-create-and-motion/7839
 
 ### Makerspace Discord members suggested pinned messages documents
-useful links provided by those who came before, I would encourage you to look these pinned messages over for some very good info as the local information may override any obtained from the more generic resources listed below, **many thanks to those members**.
+Useful links gleened from the Discord.
+
+We would encourage you to look these TheLab Discord pinned messages over for some very good info as the local information may override any obtained from the more generic resources listed below. Check for newer additions on the Discord CNC channel as well
+
+**Many thanks to those members who came before**.
 
 https://carbide3d.com/files/pdf/VFD_Spindle_Kit_v1.pdf
 

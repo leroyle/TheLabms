@@ -1,6 +1,10 @@
 
 
-My initial adventure into CNC machining at the local Makerspace. At this point I can just spell CNC, beyond  that its all foreign.
+An initial adventure into CNC machining at the local Makerspace.
+
+At this point some of us can just about spell CNC, beyond that its all foreign. The information provided should be considered general in nature. At the moment it may be a bit scattered and incomplete in certain areas.
+
+Feel free to shoot a note on the Discord, CNC channel with suggestions/updates.
 
 This is work in progress that will hopefully one day make it in some form to
 the Makerspace Wiki.

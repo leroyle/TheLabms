@@ -1,29 +1,30 @@
 
 
-This is work in progress that will hopefully one day make it in some form to
-the Makerspace Wiki.
+# NOTE THIS IS A WORK IN PROGRESS, PLEASE PLEASE PLEASE TALK WITH THE AREA COORDINATOR BEFORE UTILIZING ANY OF THE FOLLOWING INFORMATION.
+# PLEASE USE IT FOR GENERAL INFORAMATION ONLY.
+# WE DO NOT WANT TO ACCIDENTALLY DESTROY MAN/WOMAN OR MACHINE IF ANY OF THIS DOES NOT APPLY TO TheLab MAKERSPACE
 
-# **Introduction:**
-
-## The machine
+## Introduction: The machine
 TheLab makerspace CNC machine is the **Shapeoko Pro XXL**.
+Useful links provided by those who came before.
 
-Shapeoko Pro XXL guide:  https://my.carbide3d.com/gettingstarted/shapeokopro/
+<a href="https://my.carbide3d.com/gettingstarted/shapeokopro">Shapeoko Pro XXL</a>
 
-Carbide3d, the company behind the Shapeoko, makes a design software package called Carbide Create. The TheLab does not currently have a license for using a full version of Carbide Create for project design.
+<a href="https://docs.carbide3d.com/assembly/shapeoko-pro/xxl/Shapeoko_Pro_assembly_guide_02-05-2021_v1_web.pdf">Assemble Guide</a>
 
-- The Carbide3D's **Carbide Motion** software product is the tool which is used to actually execute/run the G-code on the Shapeoko.  
+<a href="https://carbide3d.com/3d-print">3D Printed Workholding</a>
 
 ## Design Your Project
 
-- For project design and G-Code generation the software used in TheLab is the **Vectric Vcarve Pro** Makerspace edition. There are two version of this Vcarve Pro Makerspace edition. Details for the design portion of your project can be found in another sub section of this wiki page.
+- For project design refer to the <a href="../DesignSoftware/README.md">DesignSoftware</a> DesignSoftware portion of this wiki.
 
+## Machine Your Project
+The software driving the actual Shapeoko machine in the makerspace is Carbide3D's **Carbide Motion Machine Control Software** product.  https://carbide3d.com/carbidemotion/
   - Carbide Motion Keyboard Cheat sheet:
 https://community.carbide3d.com/t/keyboard-shortcut-cheat-sheet-for-carbide-create-and-motion/7839
 
-
 ### Makerspace Discord members suggested pinned messages documents
-useful links provided by those who came before, I would encourage you to look these pinned messages over for some very good info, **many thanks to those members**.
+useful links provided by those who came before, I would encourage you to look these pinned messages over for some very good info as the local information may override any obtained from the more generic resources listed below, **many thanks to those members**.
 
 https://carbide3d.com/files/pdf/VFD_Spindle_Kit_v1.pdf
 
@@ -35,29 +36,44 @@ https://docs.carbide3d.com/assembly/shapeoko-pro/xxl/Shapeoko_Pro_assembly_guide
 
 
 ### Learning Carbide resources
+** NOTE: The following list of resources have not been fully curated, they are just a very rough pass at what is currently available on the internet. Please **do** have a conversation with the area coordinator before implementing any of these actions/suggestions.
 
-Carbide3D YouTube
-- https://www.youtube.com/carbide3d
-Carbide3D Hub
-- https://carbide3d.com/hub/
- Running a Shapeoko - Introduction (1/13)
-https://carbide3d.com/hub/courses/running-shapeoko/
+Carbide3D main site: https://carbide3d.com/
+
+Carbind 3D Blog: https://carbide3d.com/blog/
+
+Carbide3D YouTube: https://www.youtube.com/carbide3d
+
+Facebook: https://www.facebook.com/carbide3d/?locale=pt_PT
+
+Carbide Motion Machine Control Software: https://carbide3d.com/carbidemotion/#learnmore
+
+The New Carbide Motion (Version 635 and Beyond): https://www.youtube.com/watch?v=8fhEAzjvpzQ
+  
+Carbide3D Hub: https://carbide3d.com/hub/
+
+Running a Shapeoko - Introduction (1/13): https://carbide3d.com/hub/courses/running-shapeoko/
 
 Carbide3D Resources
-BitSetter Changes in Carbide Motion V 635
-- https://carbide3d.com/blog/bitsetter-changes-carbide-motion/
+BitSetter Changes in Carbide Motion V 635: https://carbide3d.com/blog/bitsetter-changes-carbide-motion/
 
-Carbide Motion Machine Control Software
-- https://carbide3d.com/carbidemotion/#learnmore
-- 
-The New Carbide Motion (Version 635 and Beyond)
-- https://www.youtube.com/watch?v=8fhEAzjvpzQ
-- 
+### Executing/Carving Your Project
+the following document for our Makerspace specifics for CNC machine operations.
+
+<a href="TheLab_CNC_Spindle.pdf">Startup Procedure for TheLab Shapeoko machine</a>
+
+NOTE: The next couple of videos were "NOT" created in TheLab Makerspace it is for general
+information only, please refer to the previous document for our machine specifics
+
+How to Run a Carve Using Carbide Motion - How to Execute
+by AE Timber and Pine: https://www.youtube.com/watch?v=vw-gcv5-EC8
+
+Shapeoko 5 pro- controller for Carbide Motion: https://www.youtube.com/watch?v=xHArir6Tqgw
+  
 ### Other Possibilities
-Other things on the list to look at as time permits. Most are just notes to myself of things that **Might** be interesting.
+Other things on the list to look at as time permits. Most are just notes of things that **Might** be interesting.
 
-- A Reddit Shapeoko Wiki
-  https://www.reddit.com/r/shapeoko/wiki/index/
+- A Reddit Shapeoko Wiki: https://www.reddit.com/r/shapeoko/wiki/index/
   
 - [Udemy.com](https://www.udemy.com) - pay per course, general CNC:
 
@@ -90,9 +106,4 @@ the following document for our Makerspace specifics for CNC machine operations.
 NOTE: The next video was "NOT" created in TheLab Makerspace it is for general
 information only, please refer to the previous document for our machine specifics
 
-How to Run a Carve Using Carbide Motion - How to Execute
-AE Timber and Pine
-- https://www.youtube.com/watch?v=vw-gcv5-EC8
 
-Shapeoko 5 pro- controller for Carbide Motion
-- https://www.youtube.com/watch?v=xHArir6Tqgw

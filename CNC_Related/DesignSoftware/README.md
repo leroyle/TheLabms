@@ -41,7 +41,16 @@ These are some sites/YouTube videos we have run across when trying to learn the 
 Vectric's Vcarve Training Videos:
 https://www.vectric.com/support/tutorials/vcarve-pro/?
 
-What You Need To Know About Saving Files & Update [Vcarve, Aspire & Cut2D] CNC Router Project Design
+Vetric YouTube Channel
+https://www.youtube.com/user/Vectric
+
+## What's New in Vetric V12 Videos
+- Exploring the Top 10 Features of VCarve Version 12 | Ultimate Guide for All Makers:  https://www.youtube.com/watch?v=-DE4aF2743w
+- This one has some good v12 UI tips :  https://www.youtube.com/watch?v=xQc-PDaH1Po&list=PL1FwpwIc0fypqOak4RYnhK5gCO1mJjumj&index=63
+- Vectric V12 NEW GAME-CHANGING Feature (using AI) - VCarve & Aspire Quick Tip: https://www.youtube.com/watch?v=o-u7xwxR9MU
+
+## Misc
+What You Need To Know About Saving Files & Update [Vcarve, Aspire & Cut2D] CNC Router Project Design 
 - https://www.youtube.com/watch?v=3zryCgAWdUg
 
 - 3D carving with a CNC - Shapeoko 5 Pro / VCarve Pro
@@ -58,6 +67,7 @@ How To Set Up Your CNC Router Projects Toolpaths The Right Way [Vectric Vcarve &
 - https://www.youtube.com/watch?v=g1wp4Rzctl0
 
 
+## Non Vetric Site/Videos
 IDC Woodcraft:  Garrets Fromme, seller of bits and associated supplies and videos tutorials, etc. Not Just Vectric centric:
 - Website
 https://idcwoodcraft.com/
@@ -67,8 +77,6 @@ https://idcwoodcraft.com/
 Your CNC Router Kick-Starter Cheat Sheet
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhfeGdFa2lxNjM5aUZ1cnY4NnphU0Jnc05sZ3xBQ3Jtc0tuQmdiak9uRmhMYTRmQUdaVUdqTnY5WUhkQjNmWFpLRnJNOVVLd0lCcXNzVnNfVVdWSlNmLU9Tb056YXZ5SlQ2c29zNVhCS3FQSTRvWElLTzBWQWI3NHQ1Qnk2THBoM3RmcjAxSENzS05TcloxWFlRaw&q=https%3A%2F%2Flink.idcwoodcraft.com%2Fl6ofag&v=KkFRHmu7HzE
 
-- Whats new in Vcarve V12
-This one has some good v12 UI tips  https://www.youtube.com/watch?v=xQc-PDaH1Po&list=PL1FwpwIc0fypqOak4RYnhK5gCO1mJjumj&index=63
 - Tutorial for absolute beginner: 
 https://idcwoodcraft.com/pages/for-beginners-learning-center
 - How To Setup CNC Router Bits Feeds & Speeds in Vectric Tool Library Database Vcarve & Aspire.

@@ -45,9 +45,11 @@ Vetric YouTube Channel
 https://www.youtube.com/user/Vectric
 
 ## What's New in Vetric V12 Videos
-- Exploring the Top 10 Features of VCarve Version 12 | Ultimate Guide for All Makers:  https://www.youtube.com/watch?v=-DE4aF2743w
-- This one has some good v12 UI tips :  https://www.youtube.com/watch?v=xQc-PDaH1Po&list=PL1FwpwIc0fypqOak4RYnhK5gCO1mJjumj&index=63
-- Vectric V12 NEW GAME-CHANGING Feature (using AI) - VCarve & Aspire Quick Tip: https://www.youtube.com/watch?v=o-u7xwxR9MU
+**Sienci Labs**  Exploring the Top 10 Features of VCarve Version 12 | Ultimate Guide for All Makers:  https://www.youtube.com/watch?v=-DE4aF2743w
+
+**Garret Fromme/Kyle Ely**: This one has some good v12 UI tips :  https://www.youtube.com/watch?v=xQc-PDaH1Po&list=PL1FwpwIc0fypqOak4RYnhK5gCO1mJjumj&index=63
+
+**Kyle Ely** Vectric V12 NEW GAME-CHANGING Feature (using AI) - VCarve & Aspire Quick Tip: https://www.youtube.com/watch?v=o-u7xwxR9MU
 
 ## Misc
 What You Need To Know About Saving Files & Update [Vcarve, Aspire & Cut2D] CNC Router Project Design 
@@ -68,7 +70,7 @@ How To Set Up Your CNC Router Projects Toolpaths The Right Way [Vectric Vcarve &
 
 
 ## Non Vetric Site/Videos
-IDC Woodcraft:  Garrets Fromme, seller of bits and associated supplies and videos tutorials, etc. Not Just Vectric centric:
+### IDC Woodcraft:  Garrets Fromme, seller of bits and associated supplies and videos tutorials, etc. Not Just Vectric centric:
 - Website
 https://idcwoodcraft.com/
 - Some of his YouTube videos https://www.youtube.com/@IDCWoodcraft
@@ -77,7 +79,7 @@ https://idcwoodcraft.com/
 Your CNC Router Kick-Starter Cheat Sheet
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhfeGdFa2lxNjM5aUZ1cnY4NnphU0Jnc05sZ3xBQ3Jtc0tuQmdiak9uRmhMYTRmQUdaVUdqTnY5WUhkQjNmWFpLRnJNOVVLd0lCcXNzVnNfVVdWSlNmLU9Tb056YXZ5SlQ2c29zNVhCS3FQSTRvWElLTzBWQWI3NHQ1Qnk2THBoM3RmcjAxSENzS05TcloxWFlRaw&q=https%3A%2F%2Flink.idcwoodcraft.com%2Fl6ofag&v=KkFRHmu7HzE
 
-- Tutorial for absolute beginner: 
+- IDC WoodCraft Tutorial for absolute beginner: 
 https://idcwoodcraft.com/pages/for-beginners-learning-center
 - How To Setup CNC Router Bits Feeds & Speeds in Vectric Tool Library Database Vcarve & Aspire.
 The "more" section has a link to a downloadable pdf chart and other info.
@@ -89,13 +91,13 @@ https://www.youtube.com/watch?app=desktop&v=wJlKiLugy5s
  - How to Setup the post processor in Vectric Vcarve, Aspire, amd Cut2D - IDC Woodcraft
 https://www.youtube.com/watch?v=1jV4AhQV-2s
       
-Kyle Ely recommended by Garrett Fromme @ IDC Woodcraft. Offers online Vectric training courses:
+### Kyle Ely recommended by Garrett Fromme @ IDC Woodcraft. Offers online Vectric training courses:
 - Website: https://academy.learnyourcnc.com/   
 - YouTube: https://www.youtube.com/c/LearnYourCNC
 - Facebook: https://www.facebook.com/groups/vectrictipsandtricks/
 
-- Vectric for the Absolute Beginner Mark Lindsay
-Great series of videos on using Vectric software, starting with job setup...
+### Mark Lindsay Vectric for the Absolute Beginner
+- Great series of videos on using Vectric software, starting with job setup...
 - Main Youtube:    https://www.youtube.com/@MarkLindsayCNC
 
 Vectric V12+ for the Absolute Beginner – Part 1 – Job Setup and Vector Selection

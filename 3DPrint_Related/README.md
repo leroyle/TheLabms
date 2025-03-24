@@ -10,6 +10,8 @@ We have two Bambu X1 Carbons currently named “Giga” and “PLA Only”
 
 * X1 Series Printers Screen Operation Guide - Bambu Wiki https://wiki.bambulab.com/en/x1/manual/screen-operation#:~:text=Please%20note%20that%20changing%20the,fan%2C%20and%20set%20the%20speed.
 
+* Filament guide - Compatibility to printer, nozzle, AMS, build plate, glue and required parametes https://wiki.bambulab.com/en/general/filament-guide-material-table
+
 * Health Management System: Printer Errors:  https://wiki.bambulab.com/en/hms/home
 * 
 Filament Drying Process, how does one know a filament needs drying?

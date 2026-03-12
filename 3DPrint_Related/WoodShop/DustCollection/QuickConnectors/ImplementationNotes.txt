@@ -1,0 +1,38 @@
+
+  Notes to create the hose side of the models. 
+   Problem:  When originally Designing the model to attach to the tube sticking out of the machine I modified the wrong component, the machine side for us 
+	     is the hose side within the original model getting them backwards. For us the hose side has the female flanges, the machine side had the male flanges.
+
+   To make our machine size I have modified the exiting models tube part to snuggly fit around the outside of the machines output tube.
+   
+I was modifying the model to make a hose to host connector
+	To make the other opposite connector I exported both parts, then within Bambu I added a tube to the female part
+ 		1. Slice the tube, copy/move the sliced tube from the male flange part over to the female flange part
+		2. Adjust the tube on the female flange part to where it extends out the flat side of the female flange part.
+		3. the result should be the original male part and the adjusted female part.
+
+	Then I realized we needed to adjust the parts so the parts tube fits snuggly over the machines exhaust exit tube.
+		1. Unfortunatly I modified the wrong part. I modified the male part when I should have modified the female part.
+		   I resized/printed the parts for all machines before realizing the mistake.
+			- should have added a tube to the female part.
+		2. when printing the modified female part I split it in two so as to avoid have lots of scaffolding when printing. Once printed the parts
+		   are glued back together
+		3. The male flange part is customized as need for the required application.
+
+There are currently 5 models:
+	1. TheLab_common.fd3
+		The common Fusion file used to print the following:
+		1. The male flange side can be printed as is for a hose to hose connection
+		2.  the female flange part is used to craft the opposite side for hose to hose connection.
+			- By exporting to Bambu studio, cutting the tube from the male side and crafting it to the female flange with tube sticking out out the flat 
+			  side if the par
+
+	2. TheLab_Jointer.fd3
+		The models male flange tube size within fusion has been adjusted to fix snuggly over the machines existing tube
+	3. TheLab_Planer.fd3
+		The models male flange tube size within fusion has been adjusted to fix snuggly over the machines existing tube
+	4. TheLab_Tablesaw.fd3
+		The models male flange tube size within fusion has been adjusted to fix snuggly over the machines existing tube
+	5. TheLab_Mitre.fd3
+		The models male flange tube size within fusion has been adjusted to fix snuggly over the machines existing tube`
+		  

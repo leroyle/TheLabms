@@ -1,0 +1,15 @@
+
+Original Model from Thelab.ms Makerspace Discord user Mikey Modified the 4" side to better accommodate TheLab's 4" hoses
+
+https://www.youtube.com/watch?v=Sefs8zQPnvw
+	Fusion 360 - Tri-Connector Workflow
+
+https://www.youtube.com/watch?v=dA8CpFLaxLA
+How to make pipe joint in fusion 360
+
+https://www.youtube.com/watch?v=uYJCr86a9CI
+Fusion 360: Loft object #2 Duct Transition
+
+https://www.youtube.com/watch?v=NAK2VRvwVSo
+
+Make a Shop Vac Hose Adapter with Fusion 360 and a 3D Printer

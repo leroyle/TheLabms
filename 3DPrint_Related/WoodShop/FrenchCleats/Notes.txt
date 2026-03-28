@@ -1,6 +1,29 @@
 
-French Cleat Videos
 
+To get 2 exact halves when cutting a 45 degree cleat angle
+
+  For a 3" wide, 3/4" this piece
+ 1. Find width of piece divide by 2
+	3/2 = 1-1/2
+
+ 2. Find 1/2 of width of piece
+	3/4"/2 = 3/8"
+
+ 3. Finally width from blade to fence
+	1-1/2 - 3/8
+	1-4/8 - 3/8 == 1-1/8 fr0m blade to fence
+
+ 4. Cut 1/8" off sharp point edge
+
+Binding blade
+	Dull blade
+	Fence not parallel to blade
+	Better blade: 24 -30 for TPI for ripping, high count for cross cut
+ 	Combination:  40 - 50 TPI
+	Cross Cut:	60 - 80
+	Thin kerf .118 or less for 120 v saw
+
+French Cleat Videos
  
 Complete Guide To French Cleats - Beginner's Guide, Locks, Stud Mounting, Tips And Tricks, Holder
  https://www.youtube.com/watch?v=ME4R-TjIkcY
@@ -9,19 +32,18 @@ Complete Guide To French Cleats - Beginner's Guide, Locks, Stud Mounting, Tips A
   5" strips long way = 9 strips @ 5" each
 
 
-https://www.youtube.com/watch?v=Rh2HTOa2Geo
-
-https://www.youtube.com/watch?v=Rh2HTOa2Geo
-
+French Cleats: Simple & Modular Wall Mounted Tool Storage
+  https://www.youtube.com/watch?v=Rh2HTOa2Geo
 
 11 French Cleats Projects. Customizable Storage Solution
   https://www.youtube.com/watch?v=MMSe4ndsdow
  
-
 PART 1 40 FRENCH CLEAT IDEAS, there are 4 videos
 https://www.youtube.com/watch?v=eL62BUgosJc
 
-
 DIY CORDLESS TOOL STORAGE SHELF (FREE DOWNLOADABLE PLANS)
 https://www.youtube.com/watch?v=k8xRTufWHQE&t=3s
+
+Making French Cleat Tool Holders
+https://www.youtube.com/watch?v=syV-1kwOxLg
 
